@@ -4,7 +4,7 @@ For more information about challenge 1, visit: https://hackfordemocracy.org/chal
 
 ### Slides
 
-* Slides for Let America Vote's presentation can be found [here](Let America Vote - Hack for Democracy.pptx) 
+Slides for Let America Vote's presentation can be found [here](./Let-America-Vote-slides.pptx) 
 
 ### Other Sources
 
