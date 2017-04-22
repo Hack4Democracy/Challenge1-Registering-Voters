@@ -2,7 +2,7 @@
 
 For more information about challenge 1, visit: https://hackfordemocracy.org/challenges/
 
-### Slides
+## Slides
 
 Slides for Let America Vote's presentation can be found [here](./Let-America-Vote-slides.pptx) 
 
